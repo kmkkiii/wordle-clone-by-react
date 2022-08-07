@@ -19,3 +19,4 @@ You may also see any lint errors in the console.
 - [ ] Japanese meaning hint
 - [ ] Add words function
 - [ ] Deploy(how to set up a json-server)
+      reference: https://qiita.com/tobisako/items/c1c3cac119716d1a643f#json-server%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB
